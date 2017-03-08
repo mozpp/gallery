@@ -29,7 +29,7 @@ or directly from GitHub:
     $ cd gallery-dl
     $ python3 setup.py install
 
-Windows users can also download a `standalone executable`_.
+Windows users can also download a `standalone executable`:https://pan.baidu.com/s/1dFIcKNZ.
 
 
 Usage
