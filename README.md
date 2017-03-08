@@ -9,9 +9,6 @@ gelbooru.com and several more (see `Supported Sites`_). It requires Python 3.3+
 to run and works on Unix-like systems as well as Windows.
 
 
-|pypi| |build|
-
-.. section-numbering::
 
 
 Installation
